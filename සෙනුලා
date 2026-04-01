@@ -10,7 +10,6 @@
       padding: 0;
       text-align: center;
     }
-
     header {
       background: linear-gradient(90deg, #ff7f50, #ffb347, #87cefa);
       color: white;
@@ -19,7 +18,6 @@
       font-weight: bold;
       text-shadow: 2px 2px #333;
     }
-
     .section {
       background-color: white;
       max-width: 700px;
@@ -28,11 +26,9 @@
       border-radius: 15px;
       box-shadow: 0 4px 10px rgba(0,0,0,0.1);
     }
-
     h2 {
       color: #ff69b4;
     }
-
     .member {
       padding: 15px;
       border-radius: 10px;
@@ -40,17 +36,14 @@
       color: white;
       font-weight: bold;
     }
-
     .me { background-color: #87ceeb; }
     .dad { background-color: #ff7f50; }
     .mom { background-color: #32cd32; }
     .sister { background-color: #ff69b4; }
-
     .info {
       font-weight: normal;
       color: #333;
     }
-
     footer {
       margin: 20px;
       font-size: 16px;
@@ -87,7 +80,6 @@
     <h3>Mom</h3>
     <p class="info">Age: 50, Height: (unknown)</p>
   </div>
-
   <div class="member sister">
     <h3>Sister</h3>
     <p class="info">Age: 22, Height: 155cm</p>
@@ -99,6 +91,5 @@
   <p>Phone: <a href="tel:0775003938">0775003938</a></p>
   <p>Email: <a href="mailto:senuakarsha31@gmail.com">senuakarsha31@gmail.com</a></p>
 </footer>
-
 </body>
 </html>
